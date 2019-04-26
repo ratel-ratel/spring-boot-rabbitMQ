@@ -8,6 +8,7 @@
   可靠性、安全。
     RabbitMQ 是一个开源的 AMQP 实现，服务器端用Erlang语言编写，支持多种客户端，如：Python、Ruby、.NET、Java、JMS、C、
   PHP、ActionScript、XMPP、STOMP 等，支持 AJAX。用于在分布式系统中存储转发消息，在易用性、扩展性、高可用性等方面表现不俗
+#RabbitMQ安装  
 [RabbitMQ 安装](https://blog.csdn.net/rickey17/article/details/72756766/)
     安装rabbitmq-server
     	echo 'deb http://www.rabbitmq.com/debian/ testing main' | sudo tee /etc/apt/sources.list.d/rabbitmq.list
